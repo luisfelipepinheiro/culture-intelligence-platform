@@ -1,4 +1,4 @@
-# Museum Intelligence Platform
+# Culture Intelligence Platform
 
 An open-source Business Intelligence platform designed for museums and cultural institutions.
 
