@@ -6,6 +6,19 @@ The project integrates data collection, ETL, dimensional modeling, and interacti
 
 ---
 
+## Author
+
+Luís Felipe Pinheiro
+
+Data Analyst | Museologist
+
+GitHub: luisfelipepinheiro
+
+LinkedIn: https://www.linkedin.com/in/luisfelipepinheiro/
+
+
+---
+
 ## Vision
 
 Transform cultural data into strategic information through an open, modular, and reusable Business Intelligence platform.
